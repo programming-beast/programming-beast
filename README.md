@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jairajpoot/jairajpoot/master/logo%20-%20400%20-%201.png" width="60ox" height="60px" />
+  <img src="https://avatars0.githubusercontent.com/u/70305114?s=400&u=29ce345abfa75a3bbab0a1634d09d1541b6d5dc7&v=4" width="60ox" height="60px" />
 </p>
 
-<h2 align="center"> Hi, I am Code Architects 💻 </h2>
+<h2 align="center"> Hi, I am Programming Beast 💻 </h2>
 <p align="center"><a href="https://www.instargram.com/code.archiects">@code.architects</a></p>
 
 ### Bio 👨‍🦱
@@ -28,7 +28,6 @@ Information & Tips with beautiful code snippets. 🌈
 
 💻 | Code snippets
 📚 | Post about Web related
-💬 | Mail us if you need help
 ```
 
 ### Github Stats 💯
