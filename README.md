@@ -31,13 +31,11 @@ Information & Tips with beautiful code snippets. 🌈
 ```
 
 ### Github Stats 💯
-<img src="https://github-readme-stats.vercel.app/api/?username=code-architects&show_icons=true" alt="git stats">
+<img src="https://github-readme-stats.vercel.app/api/?username=jairajpoot&show_icons=true" alt="git stats">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-architects)
 
 ### Links ⚡
-<a href="https://code-architects.github.io" target="_blank"> Website </a>
 
-<a href="https://www.instagram.com/code.architects"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.youtube.com/channel/UCSCMabxk13HlVU-7pahvGyg"> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> </a>
 
+<a href="https://www.instagram.com/code.architects"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>
 <img src="https://komarev.com/ghpvc/?username=code-architects" alt="Code-Architects" />
