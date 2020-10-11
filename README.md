@@ -37,5 +37,5 @@ Information & Tips with beautiful code snippets. 🌈
 ### Links ⚡
 
 
-<a href="https://www.instagram.com/code.architects"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-<img src="https://komarev.com/ghpvc/?username=code-architects" alt="Code-Architects" />
+<a href="https://www.instagram.com/programming_beast/"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+
