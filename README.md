@@ -31,7 +31,7 @@ Information & Tips with beautiful code snippets. 🌈
 ```
 
 ### Github Stats 💯
-<img src="&show_icons=true" alt="git stats">
+<img src="https://github-readme-stats.vercel.app/api/?username=programming-beast&show_icons=true" alt="git stats">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=programming-beast)
 
